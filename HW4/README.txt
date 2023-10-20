@@ -4,6 +4,7 @@ Homework 4 - SVM
 This folder contains:
 
 README.txt
+HW4.pdf   ---> Question Paper
 HW4_Report.pdf  ---> Report
 HW4.ipynb  ---> source code on Jupyter Notebook (Python 3)
 
