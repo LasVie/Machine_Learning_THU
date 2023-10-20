@@ -18,4 +18,4 @@ train2_icu_data.csv
 train2_icu_lable.csv
 ----------------------------------------------------------
 
-Github page: https://github.com/LasVie/Machine-Learning_SVM_THU
+Github page: https://github.com/LasVie/Machine_Learning_THU/tree/main/HW4
